@@ -26,6 +26,6 @@ It highlights customer behavior, sales trends, and product performance with inte
 ![Dashboard Overview](images/Overview.png)
 ![Interactive Analysis](images/Interactive_Analysis.png)
 ![Risk Analysis](images/Risk_Analysis.png)
-![Default Prediction Analysis](images/Default Prediction Analysis.png)
+![Default Prediction Analysis](images/Default_Prediction_Analysis.png)
 ![AI-Driven Analysis](images/AI_Driven_Analysis.png)
 ![Decision Tree](images/Decision_Tree.png)
