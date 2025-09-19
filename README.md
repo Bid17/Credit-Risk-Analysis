@@ -21,3 +21,12 @@ It highlights customer behavior, sales trends, and product performance with inte
 ## How to View
 - Download the `.pbix` file and open it in Power BI Desktop  
 - Or view screenshots in the `/images` folder
+
+## 🖼️ Dashboard Screenshots
+![Dashboard Overview](images/Overview.png)
+![Interactive Analysis](images/Interactive_Analysis.png)
+![Interactive Analysis](images/Interactive_Analysis.png)
+![Risk Analysis](images/Risk_Analysis.png)
+![Default Prediction Analysis](images/Default_Prediction_Analysis.png)
+![AI-Driven Analysis](images/Ai-Driven_Analysis.png)
+![Decision Tree](images/Decision_Tree.png)
